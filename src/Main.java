@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("good afternoon");
         System.out.println("Good morning");
-        System.out.println("new feature");
+        System.out.println("new feature conflict");
     }
 }
